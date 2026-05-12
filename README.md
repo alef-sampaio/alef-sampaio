@@ -12,7 +12,7 @@ Sou estudante  de Ciências da Computação na UNIFOR (Universidade de Fortaleza
 - C/C++
 - Desenvolvimento de projetos com ESP32
 
-## Projeto em destaque
+## Projeto(s) em destaque
 
 ### Math Search
 Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o conceito de números primos de forma interativa.
