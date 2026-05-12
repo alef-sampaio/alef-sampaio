@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Alef Alexandre 👋
 
-<!--
-**alef-sampaio/alef-sampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da área de Ciências da Computação na UNIFOR(Universidade de Fortaleza), com interesse em desenvolvimento de software, jogos educativos e soluções digitais.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JavaScript
+- Godot / GDScript
+- Git e GitHub
+- Lógica de programação
+- C/C++
+- Desenvolvimento de projetos com ESP32
+
+## Projeto em destaque
+
+### Math Search
+Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o conceito de números primos de forma interativa.
