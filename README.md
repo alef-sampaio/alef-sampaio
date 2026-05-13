@@ -23,4 +23,4 @@ Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o
 - Foco em educação matemática
 - Disponível para Windows
 
-[🔗 Acessar repositório](https://github.com/alef-sampaio/Math-Search)
+[🔗 Acessar repositório do Math Search](https://github.com/alef-sampaio/Math-Search)
