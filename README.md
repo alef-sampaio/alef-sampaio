@@ -12,9 +12,15 @@ Sou estudante  de Ciências da Computação na UNIFOR (Universidade de Fortaleza
 - C/C++
 - Desenvolvimento de projetos com ESP32
 
-## Projeto(s) em destaque
+## Projeto em destaque
 
 ### Math Search
+
 Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o conceito de números primos de forma interativa.
 
-[🔗 Acessar repositório do Math Search](https://github.com/alef-sampaio/Math-Search)
+- Desenvolvido em Godot
+- Programação em GDScript
+- Foco em educação matemática
+- Disponível para Windows
+
+[🔗 Acessar repositório](https://github.com/alef-sampaio/Math-Search)
