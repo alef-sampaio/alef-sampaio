@@ -17,4 +17,4 @@ Sou estudante  de Ciências da Computação na UNIFOR (Universidade de Fortaleza
 ### Math Search
 Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o conceito de números primos de forma interativa.
 
-Link do repositório: https://github.com/alef-sampaio/Math-Seach
+[🔗 Acessar repositório do Math Search](https://github.com/alef-sampaio/Math-Search)
