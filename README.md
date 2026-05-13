@@ -1,4 +1,4 @@
-# Olá, eu sou Alef Alexandre 👋
+# Olá, eu sou Alef Alexandre
 
 Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza), com interesse em desenvolvimento de software, jogos educativos e soluções digitais.
 
@@ -17,10 +17,5 @@ Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza),
 ### Math Search
 
 Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o conceito de números primos de forma interativa.
-
-- Desenvolvido em Godot
-- Programação em GDScript
-- Foco em educação matemática
-- Disponível para Windows
 
 [🔗 Acessar repositório do Math Search](https://github.com/alef-sampaio/Math-Search)
