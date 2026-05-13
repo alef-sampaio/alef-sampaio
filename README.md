@@ -1,6 +1,6 @@
 # Olá, eu sou Alef Alexandre 👋
 
-Sou estudante  de Ciências da Computação na UNIFOR (Universidade de Fortaleza), com interesse em desenvolvimento de software, jogos educativos e soluções digitais.
+Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza), com interesse em desenvolvimento de software, jogos educativos e soluções digitais.
 
 ## Tecnologias que estou estudando
 
