@@ -6,11 +6,9 @@ Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza),
 
 - Java
 - JavaScript
-- Godot / GDScript
+- HTML/CSS
+- React
 - Git e GitHub
-- Lógica de programação
-- C/C++
-- Desenvolvimento de projetos com ESP32
 
 ## Projeto em destaque
 
