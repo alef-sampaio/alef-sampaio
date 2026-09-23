@@ -7,7 +7,7 @@ Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza),
 - Java
 - JavaScript
 - HTML/CSS
-- Node
+- Node / React
 - Git e GitHub
 
 ## Projeto em destaque
