@@ -12,8 +12,8 @@ Sou estudante de Ciência da Computação na UNIFOR (Universidade de Fortaleza),
 
 ## Projeto em destaque
 
-### Math Search
+### Drip Store
 
-Jogo educativo de plataforma voltado para crianças, com o objetivo de ensinar o conceito de números primos de forma interativa.
+Um projeto feito Por mim com React, Vite, CSS puro e o deploy feito na vercel.
 
-[🔗 Acessar repositório do Math Search](https://github.com/alef-sampaio/Math-Search)
+[ Acessar repositório da Drip Store](http://github.com/alef-sampaio/Projeto-Front-End-Drip-Store)
